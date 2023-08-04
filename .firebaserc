@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "get-stream-io-decoded": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "get-stream-io-decoded"
+        ]
+      }
+    },
+    "angular-chat-app-231e8": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "angular-chat-app-231e8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-chat-app-231e8"
+  }
+}
